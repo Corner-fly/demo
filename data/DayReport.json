@@ -10,5 +10,9 @@
             , { "F_Id": "5e1a0ee7-1f64-4669-bc9c-d528f0e28b1a", "F_CreatorTime": "2018-08-28 01:00:00", "PJZ_PH": "68.4", "PJZ_ll": "56.47", "PJZ_ad": "27.15", "PJZ_zd": "30.23", "PJZ_cod": "32.25" }
             , { "F_Id": "d82d7b92-5255-4196-aa73-c049783017d6", "F_CreatorTime": "2018-08-28 02:00:00", "PJZ_PH": "7.17", "PJZ_ll": "54.49", "PJZ_ad": "28.32", "PJZ_zd": "30.23", "PJZ_cod": "32.30" }
             , { "F_Id": "597e9241-cf10-4550-9029-f0db3c37d715", "F_CreatorTime": "2018-08-28 03:00:00", "PJZ_PH": "6.89", "PJZ_ll": "55.51", "PJZ_ad": "27.27", "PJZ_zd": "30.32", "PJZ_cod": "32.71" }
+            , { "F_Id": "8945831b-feaa-4098-8221-97d9f96f4633", "F_CreatorTime": "最大值", "PJZ_PH": "6.89", "PJZ_ll": "55.51", "PJZ_ad": "27.27", "PJZ_zd": "30.32", "PJZ_cod": "32.71" }
+            , { "F_Id": "5e1a0ee7-1f64-4669-bc9c-d528f0e28b13", "F_CreatorTime": "最小值", "PJZ_PH": "68.4", "PJZ_ll": "56.47", "PJZ_ad": "27.15", "PJZ_zd": "30.23", "PJZ_cod": "32.25" }
+            , { "F_Id": "d82d7b92-5255-4196-aa73-c049783017d3", "F_CreatorTime": "平均值", "PJZ_PH": "7.17", "PJZ_ll": "54.49", "PJZ_ad": "28.32", "PJZ_zd": "30.23", "PJZ_cod": "32.30" }
+            , { "F_Id": "597e9241-cf10-4550-9029-f0db3c37d716", "F_CreatorTime": "累计值", "PJZ_PH": "6.89", "PJZ_ll": "55.51", "PJZ_ad": "27.27", "PJZ_zd": "30.32", "PJZ_cod": "32.71" }
         ]
     }
