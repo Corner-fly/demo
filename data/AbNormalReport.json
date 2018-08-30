@@ -1,0 +1,18 @@
+{
+      "page": "1", "total": 1, "records": "9"
+    , "rows": [
+          { "F_Id": "3a2efee3-157e-4a6e-82e7-84e1189e761f", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 01:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>56.47</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "61a7c094-67cf-409b-b3e6-c20297f70cc1", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 02:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>54.49</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "eb686eaf-05dc-4f3e-8d92-50644d712a2b", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 03:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>55.51</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "74adbc87-975e-4e71-a9c7-bfa172dbf614", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 04:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>56.47</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "87882613-a0c8-4eae-ab67-d83eff79f07c", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 05:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>54.49</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "8945831b-feaa-4098-8221-97d9f96f4638", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 06:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>55.51</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "5e1a0ee7-1f64-4669-bc9c-d528f0e28b1a", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 07:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>56.47</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "d82d7b92-5255-4196-aa73-c049783017d6", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 08:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>54.49</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "597e9241-cf10-4550-9029-f0db3c37d715", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 09:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>55.51</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "8945831b-feaa-4098-8221-97d9f96f4633", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 10:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>55.51</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "5e1a0ee7-1f64-4669-bc9c-d528f0e28b13", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 11:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>56.47</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "d82d7b92-5255-4196-aa73-c049783017d3", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 12:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>54.49</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+        , { "F_Id": "597e9241-cf10-4550-9029-f0db3c37d716", "qy_name": "食品资源有限公司", "pfk": "排水口一", "Time": "2018-08-28 13:00:00", "yz": "总氮", "sjlx": "小时数据", "bzz": "51.00", "jcz": "<div style='background:#F29B76;'>53.69</div>", "bzz": "51.00", "dw": "mg/m3", "jczt": "未解除" }
+    ]
+}
